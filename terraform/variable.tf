@@ -12,5 +12,5 @@ variable "key_name" {
 
 variable "ami" {
   description = "AMI ID for EC2"
-  default     = "ami-0c02fb55956c7d316"
+  default     = "aami-0ec10929233384c7f"
 }
